@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="what_to_buy">What do you want to buy?</string>
+    <string name="how_many">How much?</string>
+    <string name="delete_shopping_list">Clear</string>
+</resources>
